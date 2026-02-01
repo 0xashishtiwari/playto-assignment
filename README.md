@@ -23,7 +23,7 @@ Playto-Assignment/
 │
 ├── .gitignore
 └── README.md
-└── README.md
+└── EXPLAIN.md
 
 
 ```
@@ -54,8 +54,8 @@ npm --version
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/community-app.git
-cd community-app
+git clone https://github.com/0xashishtiwari/playto-assignment
+cd playto-assignment
 ```
 
 ---
@@ -98,6 +98,11 @@ venv\Scripts\Activate.ps1
 
 ```bash
 pip install -r requirements.txt
+```
+### 6 Run database migrations
+
+```bash
+cd config
 ```
 
 
