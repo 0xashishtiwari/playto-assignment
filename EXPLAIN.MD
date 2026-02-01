@@ -1,12 +1,3 @@
-Great question — this is exactly the kind of document that shows **engineering maturity**, not just “it works”.
-
-Below is a **complete `EXPLAINER.md`** you can place at the **root of your repo**.
-It explains **architecture, frontend–backend flow, APIs, data modeling, N+1 avoidance, comment tree design, and karma logic** in clear, interview-ready language.
-
-You can copy–paste this as is.
-
----
-
 # 📘 EXPLAINER.md
 
 **Full-Stack Architecture & Design Explanation**
@@ -342,18 +333,4 @@ Auth can be added later without changing core logic.
 * Caching leaderboard results
 * WebSockets for live updates
 * Database-level aggregation for karma
-
----
-
-## ✅ Summary
-
-This project demonstrates:
-
-* Clean full-stack separation
-* Efficient Django ORM usage
-* Thoughtful API design
-* Real-world performance considerations
-* Scalable discussion system
-
-It’s designed not just to **work**, but to **scale and be understood**.
 
